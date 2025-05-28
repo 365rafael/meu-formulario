@@ -81,7 +81,5 @@ function gerarPDF() {
 
     document.getElementById('mensagem').style.display = 'block';
 
-    const telefone = '5534997132663'; 
-    const texto = encodeURIComponent('Olá, acabei de preencher o formulário e gerei o PDF. Segue em anexo.');
-    window.open(`https://wa.me/${telefone}?text=${texto}`, '_blank');
+    
 }
