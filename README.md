@@ -1,4 +1,4 @@
-# Formulário para Geração de PDF com Busca CEP e Envio via WhatsApp
+# Formulário para Geração de PDF com Busca CEP 
 
 Este projeto consiste em um formulário web responsivo desenvolvido em HTML, CSS e JavaScript, que permite ao usuário preencher dados pessoais, do negócio e endereço, gerar um PDF com essas informações, buscar endereço automaticamente pelo CEP e abrir o WhatsApp já com uma mensagem pronta para envio.
 
@@ -8,7 +8,6 @@ Este projeto consiste em um formulário web responsivo desenvolvido em HTML, CSS
 - Busca automática de endereço via CEP utilizando API ViaCEP
 - Geração de PDF com os dados preenchidos usando a biblioteca jsPDF
 - Mensagem de agradecimento após geração do PDF
-- Redirecionamento automático para o WhatsApp Web com mensagem pré-preenchida
 - Layout responsivo e moderno
 - Inclusão de logos no topo do formulário (personalizável)
 
@@ -41,6 +40,8 @@ README.md
 ## Considerações
 
 Este projeto é frontend puro, sem backend, ideal para hospedagem em plataformas gratuitas que servem arquivos estáticos.
+
+[Exemplo](https://meu-formulario-ten.vercel.app/)
 
 ## Autor
 
